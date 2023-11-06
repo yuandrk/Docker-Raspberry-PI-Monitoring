@@ -1,0 +1,9 @@
+{
+	"sans": [
+		"nextcloud.yuandrk.net"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/0383a723fca10736308fe2b662dd305e0ae0",
+		"ca": "https://acme-v02.api.letsencrypt.org/directory"
+	}
+}
